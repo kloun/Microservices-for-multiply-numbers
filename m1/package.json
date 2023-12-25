@@ -1,0 +1,15 @@
+{
+  "name": "microservice-m1",
+  "version": "0.1.0",
+  "description": "microservice gateway and router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Kukshiev",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "express": "^4.18.2"
+  }
+}
